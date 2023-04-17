@@ -6,8 +6,8 @@ A simple Plan (list) for [typst.app](https://typst.app).
 
 ### Plan
 
-![Preview](plan.png)
+![Preview](plan.jpg)
 
 ### PDF
 
-[plan.pdf](https://github.com/ay-learn/typst-plan/...pdf)
+[plan.pdf](plan.pdf)
