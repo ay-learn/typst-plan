@@ -1,6 +1,6 @@
 
-build:
-	typst plan.typ
+compile:
+	typst compile plan.typ
 
-serve:
-	typst -w plan.typ
+watch:
+	typst watch plan.typ
